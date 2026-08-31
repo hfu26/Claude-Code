@@ -52,7 +52,9 @@
       "mcp__2647242b-104c-4599-b107-fc32066dc0f8__slack_search_channels",
       "mcp__2647242b-104c-4599-b107-fc32066dc0f8__slack_search_users",
       "mcp__2647242b-104c-4599-b107-fc32066dc0f8__slack_search_public",
-      "mcp__2647242b-104c-4599-b107-fc32066dc0f8__slack_search_public_and_private"
+      "mcp__2647242b-104c-4599-b107-fc32066dc0f8__slack_search_public_and_private",
+      "mcp__Slack__slack_send_message",
+      "mcp__2647242b-104c-4599-b107-fc32066dc0f8__slack_send_message"
     ]
   }
 }
