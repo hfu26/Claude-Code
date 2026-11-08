@@ -15,20 +15,7 @@ Frank 2026-11-08 批准。Frank 人在电脑旁：遇到 DocSend 邮件验证或
 所有路径都相对 `~/notion-archive/`。同一份原件对应多个文件夹时，每个文件夹都放一份。
 
 ### DocSend
-- https://docsend.com/view/3gz78tafcmqptxb2 → Meeting Materials/Surf Summary 9-11-2025__239f0ada
-- https://docsend.com/view/8jszbfnzhqivynen → Meeting Materials/Tensorblock Summary 11-27-2025__2b8f0ada
-- https://docsend.com/view/dzpxf7twbz7bbmfr → 同上（Tensorblock）
-- https://docsend.com/view/e5pf3e848vhiauv8 → 同上（Tensorblock）
-- https://docsend.com/view/tt27fxcd7dvfn6sx → Meeting Materials/Bloom 8-28-2025__330f0ada
-- https://docsend.com/view/uciac7z85sahcxsw → Meeting Materials/📄 Source — Para Series A Memo (text, June 9 2026)__37cf0ada，以及 Meeting Materials/Para 6-10-2026 (EN)__37cf0ada
-- https://docsend.com/view/v9j2yikcj2hd527f → Meeting Materials/📑 Source — Pitch Deck (text, 6-17-2026)__383f0ada，以及 Meeting Materials/Anoria 6-17-2026__383f0ada
-- https://docsend.com/view/p9q3tbet8fqik9mr（1Money 的 DocSend Space）→ Meeting Materials/Source- dataroom.md — licensing, traction, customers, governance__37cf0ada，以及 Meeting Materials/1Money data room sources (agent-readable)__37cf0ada。Space 里如有多份文档，全部下载。
-- https://docsend.com/view/iifkg6yyqafxeavg/d/9bevnumybz46rm23 → Meeting Materials/Compute Labs Summary (2-4-2026)__2fcf0ada，以及 Meeting Materials/Compute Labs Memo v.F - Benji Siem__1F-GiMIY
-- https://docsend.com/view/iifkg6yyqafxeavg/d/kpbuji6peatbja3u → 同上（Compute Labs Summary）
-- https://docsend.com/view/iifkg6yyqafxeavg/d/vzeq7h8dtct8gu2u → 同上（Compute Labs Summary）
-- https://docsend.com/view/hqt26vc7kd2gsy34 → Meeting Materials/Combinder Summary (1-8-2026)__2cdf0ada。云端两次 pdf_integrity，可能是 Excel，试 data room 表格路线。
-- https://docsend.com/view/yqrp3r7txwr2qbtt → Meeting Materials/Grimoire Summary (3-5-2026)__31af0ada。同上，pdf_integrity。
-- https://docsend.com/view/k2wuzxbsicnw4pea → IC Case Studies/Pipeline - Arbital。要文档口令：先问 Frank；他不知道就跳过。
+- 已全部由云端会话完成(2026-11-08):Compute Labs、1Money、Combinder、Grimoire、Arbital 已入库;其余 7 条为发送方关闭链接,已记录。本单不再处理 DocSend。
 
 ### Google Drive
 在 Frank Mac 的 Google Drive 同步目录里找（通常在 ~/Library/CloudStorage/GoogleDrive-*/ 下）：
